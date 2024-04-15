@@ -5,7 +5,7 @@
     left:-741px;
     padding:16px,0px,16px,0px;
     gap:16px;
-    opacity: 0px;
+
     display:flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +15,7 @@
     width: 1216px;
     height: 48px;
     gap: 16px;
-    opacity: 0px;
+ 
    
     display: flex;
     flex-direction: row;
@@ -27,7 +27,7 @@ width: 48px;
 height: 48px;
 padding: 1.33px 0px 1.09px 0px;
 gap: 0px;
-opacity: 0px;
+
 
 }
 
@@ -63,7 +63,7 @@ opacity: 0px;
     width: 1033px;
     height: 48px;
     gap: 0px;
-    opacity: 0px; 
+
    
     display: flex;
     flex-direction: row;
@@ -76,7 +76,7 @@ opacity: 0px;
 .item1, .item6, .item7, .item8, .item2, .item5{
     width: 190px;
     padding: 10px 0px 10px 9px;
-    opacity: 0px;
+  
     display: flex;
     gap:3px;
    
@@ -113,7 +113,7 @@ opacity: 0px;
 
 height: 24px;
 gap: 0px;
-opacity: 0px;
+
 font-family: Inter;
 font-size: 15px;
 font-weight: 500;
@@ -152,7 +152,7 @@ background: #FFFFFF;
     height: 23px;
    
     gap: 0px;
-    opacity: 0px;
+   
 
    justify-content: flex-start;
    display: flex;
@@ -168,7 +168,7 @@ background: #FFFFFF;
     width: 36px;
     height: 28px;
     gap: 0px;
-    opacity: 0px;
+   
     color: #000000;
 
 }
@@ -182,7 +182,7 @@ background: #FFFFFF;
 width: 103px;
 height: 40px;
 gap: 32px;
-opacity: 0px;
+
 
 
 }
@@ -193,7 +193,7 @@ opacity: 0px;
     padding:12px;
     gap:0px;
     border-radius:8px;
-    opacity: 0px;
+ 
     background: linear-gradient(89.82deg, #4B42D7 0.12%, #12ACBA 99.82%);
     font-family: sans-serif;
     font-size: 12px;
