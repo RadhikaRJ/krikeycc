@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/krikeycc/static/css/main.555a1559.css",
+    "main.css": "/krikeycc/static/css/main.5dd5cdd3.css",
     "main.js": "/krikeycc/static/js/main.abc19be0.js",
     "static/js/453.4615ba2f.chunk.js": "/krikeycc/static/js/453.4615ba2f.chunk.js",
     "static/media/avatar.svg": "/krikeycc/static/media/avatar.dea5db8585abdd9195ee.svg",
@@ -8,12 +8,12 @@
     "static/media/chevron-down.svg": "/krikeycc/static/media/chevron-down.01f447c3a66afa169668a1def9e78a27.svg",
     "index.html": "/krikeycc/index.html",
     "static/media/arrowleft.svg": "/krikeycc/static/media/arrowleft.0b27138018d7f3d3136a074593a859d0.svg",
-    "main.555a1559.css.map": "/krikeycc/static/css/main.555a1559.css.map",
+    "main.5dd5cdd3.css.map": "/krikeycc/static/css/main.5dd5cdd3.css.map",
     "main.abc19be0.js.map": "/krikeycc/static/js/main.abc19be0.js.map",
     "453.4615ba2f.chunk.js.map": "/krikeycc/static/js/453.4615ba2f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.555a1559.css",
+    "static/css/main.5dd5cdd3.css",
     "static/js/main.abc19be0.js"
   ]
 }
